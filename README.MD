@@ -2,7 +2,7 @@
 
 ## Integrantes
 * Abel Ordoñez Zapata (Líder)
-* [Nombre Integrante 2]
+* Sergio Sotil Lozada
 * [Nombre Integrante 3]
 * [Nombre Integrante 4]
 * [Nombre Integrante 5]
