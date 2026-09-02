@@ -4,7 +4,7 @@
 * Abel Ordoñez Zapata (Líder)
 * Sergio Sotil Lozada
 * Lucerito Vásquez Bazán
-* [Nombre Integrante 4]
+* Karlo Alfaro Meza
 * [Nombre Integrante 5]
 
 
