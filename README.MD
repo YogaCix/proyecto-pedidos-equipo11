@@ -5,7 +5,7 @@
 * Sergio Sotil Lozada
 * Lucerito Vásquez Bazán
 * Karlo Alfaro Meza
-* [Nombre Integrante 5]
+* Carlos Manuel Condori Choquehuayta
 
 
 ## Descripción del proyecto
