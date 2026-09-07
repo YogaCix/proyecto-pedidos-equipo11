@@ -5,7 +5,7 @@
 * [Nombre Integrante 2]
 * [Nombre Integrante 3]
 * [Nombre Integrante 4]
-* [Nombre Integrante 5]
+* Carlos Manuel Condori Choquehuayta
 
 
 ## Descripción del proyecto
