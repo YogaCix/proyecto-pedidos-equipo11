@@ -1,0 +1,67 @@
+===========================================
+MANUAL DE USUARIO - SISTEMA DE PEDIDOS
+Equipo 11
+===========================================
+
+1. INTRODUCCIÓN
+---------------
+Este sistema permite registrar y consultar pedidos de clientes para una pequeña empresa.
+Está desarrollado con HTML, CSS y JavaScript.
+
+2. ACCESO AL SISTEMA
+--------------------
+Para usar el sistema, abre el archivo index.html en tu navegador web.
+Recomendación: Usar Google Chrome o Mozilla Firefox.
+
+3. MÓDULO DE CLIENTES
+---------------------
+3.1 Registrar cliente:
+     - Ir a la sección "Clientes"
+     - Completar: Nombre, Teléfono, Correo electrónico
+     - Hacer clic en "Guardar cliente"
+     
+3.2 Ver lista de clientes:
+     - Ir a "Clientes"
+     - Se mostrarán todos los clientes registrados
+
+4. MÓDULO DE PRODUCTOS
+----------------------
+4.1 Registrar producto:
+     - Ir a la sección "Productos"
+     - Completar: Nombre, Descripción, Precio, Stock
+     - Hacer clic en "Guardar producto"
+     
+4.2 Ver lista de productos:
+     - Ir a "Productos"
+     - Se mostrará el catálogo completo
+
+5. MÓDULO DE PEDIDOS
+--------------------
+5.1 Crear un pedido:
+     - Ir a la sección "Pedidos"
+     - Seleccionar un cliente de la lista
+     - Seleccionar productos y cantidades
+     - Hacer clic en "Guardar pedido"
+     - El sistema calcula el total automáticamente
+
+5.2 Consultar pedidos:
+     - Ir a "Pedidos"
+     - Ver todos los pedidos realizados con fecha y total
+
+6. SOLUCIÓN DE PROBLEMAS
+------------------------
+- El sistema no guarda: Verificar que todos los campos estén completos
+- No se ven los clientes: Recargar la página (F5)
+- Error al cargar: Asegurarse que el archivo index.html esté en la carpeta correcta
+
+7. EQUIPO DE DESARROLLO
+-----------------------
+- Abel Ordoñez Zapata (Líder)
+- Sergio Sotil Lozada
+- Lucerito Vásquez Bazán
+- Karlo Alfaro Meza
+- Carlos Manuel Condori Choquehuayta
+
+===========================================
+Manual versión 1.0 - Fecha: Septiembre 2026
+===========================================
